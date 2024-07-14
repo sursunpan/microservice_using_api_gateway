@@ -1,0 +1,39 @@
+{"level":"error","message":"Wed Jul 10 2024 20:59:00 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:00:18 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:01:18 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:02:31 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:03:30 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:03:54 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:05:12 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:05:46 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 21:06:57 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 22:47:50 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 22:49:21 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 22:51:07 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 22:51:56 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:32:45 GMT+0530 (India Standard Time)-{}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:36:07 GMT+0530 (India Standard Time)-{}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:37:25 GMT+0530 (India Standard Time)-{}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:37:52 GMT+0530 (India Standard Time)-{}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:39:34 GMT+0530 (India Standard Time)-{}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:41:29 GMT+0530 (India Standard Time)-{}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:42:56 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:44:51 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:49:08 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:50:12 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:52:07 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:53:07 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:53:42 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Wed Jul 10 2024 23:57:17 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Thu Jul 11 2024 01:29:00 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Thu Jul 11 2024 01:30:27 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Thu Jul 11 2024 01:31:28 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Thu Jul 11 2024 01:33:01 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Thu Jul 11 2024 01:34:09 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Jul 14 2024 18:20:55 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Jul 14 2024 18:21:57 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Jul 14 2024 18:26:09 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Jul 14 2024 18:26:55 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{\"name\":\"API Error\",\"statusCode\":500,\"isOperational\":true},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Jul 14 2024 19:25:55 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Jul 14 2024 19:28:01 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
+{"level":"error","message":"Sun Jul 14 2024 19:30:33 GMT+0530 (India Standard Time)-{\"name\":\"Data not found\",\"statusCode\":{},\"isOperational\":true}","private":true}
